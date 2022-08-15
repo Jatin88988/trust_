@@ -1,0 +1,31 @@
+.trustise{
+    width: 100%;
+    min-width:fit-content;
+}
+/* .trust_contents{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    background-color: rgba(0, 0, 0, 0.05);
+    min-width: fit-content;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+} */
+.trust_content{
+    display: flex;
+    flex-direction: row;
+    padding: 0px 10px;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+
+}
+.react-responsive-modal-modal{
+    width: 90vw;
+    height: 90vh;
+}
+.quill{
+    height: 50vh;
+}
