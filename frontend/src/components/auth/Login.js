@@ -17,13 +17,13 @@ function Login() {
     <div className='login-content'>
         <img src='https://img.freepik.com/premium-vector/psychologic-therapy-session-concept-with-human-head-silhouette-helping-hand-unravels-tangle-messy-thoughts-with-mental-disorder-anxiety-confusion-mind-stress_148087-413.jpg?w=2000' alt='logo' />
         <div>
-            <h5>trustISE</h5>
+            <h5>Trustise</h5>
         </div>
         <button onClick={handleSubmit} className='btn-login'>Login</button>
     </div>
 
-    {/* <footer className='foot'>Contact us:</footer>
-    <footer className='foot'>Email id: jatinkumarsingh97@gmail.com, ranahimanshu6020@gmail.com</footer> */}
+    {/* <footer className='foot'>Contact us:</footer>m  
+    <footer className='foot'>Email id: bk2435153@gmail.com, ranahimanshu6020@gmail.com</footer> */}
   </div>
   );
 }
